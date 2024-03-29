@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "'FiraCode Nerd Font',  '等线'",
+    "editor.fontSize": 20,
+    "files.defaultLanguage": "markdown", // ctrl+N新建文件后默认的语言
+    "markdown.preview.fontSize": 20,
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#b6b6b61c",
+        "editorCursor.foreground": "#000000a8"
+    },
+    "workbench.colorTheme": "Default Light Modern"
+}
