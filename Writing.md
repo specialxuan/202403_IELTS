@@ -11,12 +11,12 @@
 |   down   | dip, fall, decline, drop, decrease |     slide, plunge, slump     |               to the bottom of                |
 | maintain | stay constant, stabilize, level of |                              |        reach a plateau at, plateau at         |
 
-|       |                          Change                          |
-| :---: | :------------------------------------------------------: |
-|  Big  | significantly, considerably, substantially, dramatically |
-| Small |                   slightly, moderately                   |
-| Fast  |           quickly, sharply, rapidly, suddenly            |
-| Slow  |             gradually, consistently, slowly              |
+|           |                          Change                          |
+| :-------: | :------------------------------------------------------: |
+|  **Big**  | significantly, considerably, substantially, dramatically |
+| **Small** |                   slightly, moderately                   |
+| **Fast**  |           quickly, sharply, rapidly, suddenly            |
+| **Slow**  |             gradually, consistently, slowly              |
 
 1. The proportion of women engineers in aerospace rose consistently from 7% in 2009 to 21% in 2020, **before** a predicted further hiking to 29% in 2025.
 2. The proportion of women engineers in aerospace rose consistently from 7% in 2009 to 21% in 2020, **and then is** expected to further hike to 21% in 2025.
@@ -31,14 +31,14 @@
 - significant, slight, gentle, mild, mere, in comparison
 - at A, B and C respectively
 
-|       |                                                                        |
-| :---: | :--------------------------------------------------------------------: |
-| More  | more, overtake, outnumber, big/wide/clear gap between, more likely to  |
-| Less  | less, decrease, shrink, small/narrow gap between, less likely to, only |
-| Equal |                              same, equal                               |
-| Close |   approximately, about, around, just below\above, similar, close to    |
+|           |                                                                        |
+| :-------: | :--------------------------------------------------------------------: |
+| **More**  | more, overtake, outnumber, big/wide/clear gap between, more likely to  |
+| **Less**  | less, decrease, shrink, small/narrow gap between, less likely to, only |
+| **Equal** |                              same, equal                               |
+| **Close** |   approximately, about, around, just below\above, similar, close to    |
 
-|           |         Increase          |              Comparison              |
+|           |       **Increase**        |            **Comparison**            |
 | :-------: | :-----------------------: | :----------------------------------: |
 | Multiples | double, triple, quadruple | 3 times as large as, 3 times that of |
 
@@ -46,14 +46,36 @@
 
 | Percentage |          Weight           |
 | :--------: | :-----------------------: |
-|    20%     |          a fifth          |
-|    24%     |     almost a quarter      |
-|    31%     |  just less than a third   |
-|    48%     |    a little under half    |
-|    77%     |    about three quarter    |
-|    92%     | approximately 9 out of 10 |
+|  **20%**   |          a fifth          |
+|  **24%**   |     almost a quarter      |
+|  **31%**   |  just less than a third   |
+|  **48%**   |    a little under half    |
+|  **77%**   |    about three quarter    |
+|  **92%**   | approximately 9 out of 10 |
+
+## Map
+
+|             |                           Expression                           |
+| :---------: | :------------------------------------------------------------: |
+|  **Build**  |               erect, construct, put up, develop                |
+| **Change**  | extend, expand, enlarge, relocate, construct, convert, replace |
+| **Improve** |                  renovate, upgrade, modernize                  |
+| **Remove**  |      knock down, replace, tear down, disappear, demolish       |
+| **Remain**  |                 remain, stay, stand, unchanged                 |
+
+|                  Expression                  |
+| :------------------------------------------: |
+|         A is in/on/to the east of B          |
+|        A is in the eastern part of B         |
+|      A is at/in the eastern corner of B      |
+|      A is near/next/close/adjacent to B      |
+| A is opposite to / on the opposite side of B |
 
 ## Something Good
 
 - The years **witnessed** a large number of people moving away.
 - ... though the difference varied: ...
+- in the meantime
+- in contrast
+- followed a pattern with some similarity to
+- be in line with
