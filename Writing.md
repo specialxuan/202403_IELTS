@@ -1,6 +1,8 @@
 # Writing
 
-## Dynamic Charts
+## Task 1
+
+### Dynamic Charts
 
 - fluctuate, bounce
 - approximately about, around, just below/above, slightly less/more
@@ -26,7 +28,7 @@
 6. A slight dip can be seen in the quantity of fast food consumed, from 17 units/person in 2019 to 15 units in 2021.
 7. There was a slight dip in the quantity of fast food consumed, from 17 units/person in 2019 to 15 units in 2021.
 
-## Static Chart
+### Static Chart
 
 - significant, slight, gentle, mild, mere, in comparison
 - at A, B and C respectively
@@ -53,7 +55,7 @@
 |  **77%**   |    about three quarter    |
 |  **92%**   | approximately 9 out of 10 |
 
-## Map
+### Map
 
 |             |                           Expression                           |
 | :---------: | :------------------------------------------------------------: |
@@ -71,7 +73,34 @@
 |      A is near/next/close/adjacent to B      |
 | A is opposite to / on the opposite side of B |
 
-## Something Good
+### Flow Chart
+
+- Beginning
+  - the process starts from...
+  - initially, ...
+  - at the beginning of the cycle, ...
+  - during the initial phase, ...
+  - the beginning of the whole cycle is marked by ...
+- Intermediate
+  - the second stage is...
+  - the next step in the process is...
+  - next comes the third stage: ...
+  - when the third step is completed, ...
+  - the following stage is ...
+  - once/when... is done/finished, ...
+- In process/stages/procedures/steps/phases
+  - at the same time,
+  - simultaneously,
+  - meanwhile,
+  - during...
+  - in the process of...
+  - over the course of...
+- End
+  - the final step is to...
+  - ... is the last step in the procedure.
+  - entering the final phase, ...
+
+### Something Good
 
 - The years **witnessed** a large number of people moving away.
 - ... though the difference varied: ...
