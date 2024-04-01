@@ -33,7 +33,7 @@
 - significant, slight, gentle, mild, mere, in comparison
 - at A, B and C respectively
 
-|           |                                                                        |
+|           |                               Expression                               |
 | :-------: | :--------------------------------------------------------------------: |
 | **More**  | more, overtake, outnumber, big/wide/clear gap between, more likely to  |
 | **Less**  | less, decrease, shrink, small/narrow gap between, less likely to, only |
@@ -108,3 +108,47 @@
 - in contrast
 - followed a pattern with some similarity to
 - be in line with
+
+## Task 2
+
+### Question Types
+
+- Opinion
+  1. Agree / Disagree
+  2. Discuss both views
+  3. Positive or negative development
+  4. Advantage outweigh disadvantage
+- Analysis
+  1. Problems / Causes / Reasons and Solutions
+
+### Structure
+
+1. The Beginning
+2. Point 1 + Reasoning
+3. Point 2 + Exemplification
+4. Point 3 + Concession
+5. The End
+
+### Prompt analysis
+
+1. Work on one side of opinions
+2. Reservoir of high-level points
+   - Macro, Expandable, and Compatible
+     - effectiveness and efficiency
+     - economy and finance
+     - environment and health
+     - equality and fairness
+     - feasibility and compatibility
+     - culture and globalization
+     - technology and internet
+   - High level → Mid level → Low level (Detail)
+
+### Anything good
+
+- heated on-going discussion
+- essential prerequisite
+- be conductive to
+- come to conclusion
+- either explicitly or implicitly
+- collaboration and cooperation
+- diverse and dynamic
