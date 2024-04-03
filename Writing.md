@@ -129,7 +129,7 @@
 4. Point 3 + Concession
 5. The End
 
-### Prompt analysis
+### Prompt Analysis
 
 1. Work on one side of opinions
 2. Reservoir of high-level points
@@ -143,6 +143,54 @@
      - technology and internet
    - High level → Mid level → Low level (Detail)
 
+### Idea Generation
+
+- Should pay more
+  - Culture: encourage citizens to visit
+  - Economy: support local communities
+  - Feasibility: tourists will not quit if reasonable
+- Should NOT pay more
+  - Culture: national symbol and global influence
+  - Economy: hurt local economy
+  - Equality: Cultural heritage shared by all mankind
+
+- College
+  - Effectiveness: long-term career growth
+  - Economy: better-paying jobs
+  - Social relationship: friends and circles
+- Job
+  - Economy: financial burden
+  - Effectiveness: hands-on experience
+  - Tech: learn fast and free through internet
+
+- More older people - positive development
+  - Economy: experienced and skilled workforce
+  - Health: better healthcare and productivity
+  - Tech: high-tech reduces the need for manual labor
+- More older people - negative development
+  - Economy: heavy financial burden on society
+  - Culture: lack of passion and innovation in society
+  - Social Stability: issues caused by young immigrants
+
+- Email has more advantage
+  - Efficient: fast and easy
+  - Economy: free or low cost
+  - Social relationship: reduce unneeded social
+- Email has more disadvantage
+  - Culture: text cannot convey diversity in communication
+  - Social relationship: keep people distant
+  - Economy: hardware needed, not necessarily cheap
+
+### Opening
+
+- Intriguing, coherent, and clear
+
+It is hard to deny that (*opposite detail*), and such a fact leads impressionable people to generate the opinion that (*opposite response*).
+
+However such a statement suffers from both logical and factual fallacies, and it should be examined meticulously
+
+As far as (*point 1*), (*point 2*), and (*point 3*) are concerned, I strongly hold that (*our response*).
+
 ### Anything good
 
 - heated on-going discussion
@@ -152,3 +200,5 @@
 - either explicitly or implicitly
 - collaboration and cooperation
 - diverse and dynamic
+- examine meticulously
+- causing confusion and misunderstanding
