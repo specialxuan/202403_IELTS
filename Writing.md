@@ -185,11 +185,25 @@
 
 - Intriguing, coherent, and clear
 
-It is hard to deny that (*opposite detail*), and such a fact leads impressionable people to generate the opinion that (*opposite response*).
+> It is hard to deny that (*opposite detail*), and such a fact leads impressionable people to generate the opinion that (*opposite response*).
+> However such a statement suffers from both logical and factual fallacies, and it should be examined meticulously
+> As far as (*point 1*), (*point 2*), and (*point 3*) are concerned, I strongly hold that (*our response*).
 
-However such a statement suffers from both logical and factual fallacies, and it should be examined meticulously
+### Reasoning
 
-As far as (*point 1*), (*point 2*), and (*point 3*) are concerned, I strongly hold that (*our response*).
+> First and foremost, (*point 1*), as (*fact 1-1*).
+> For instance / To illustrate / To be more specific, (*fact 1-2*);
+> In addition / not to mention that / Furthermore, (*fact 1-3*).
+> (*option filler*).
+
+- Optional Filler
+  - Summary / conclusion / what if / a small example ...
+
+### Exemplification
+
+> Furthermore, the fact that (*point 2 mid level*) indicates that (*our response*).
+> Take the case of (*character*), who / which (*process*). As a result, (*result*).
+> Had it not been for (*process paraphrase*), (*character*) would never (*result paraphrase*).
 
 ### Anything good
 
@@ -202,3 +216,9 @@ As far as (*point 1*), (*point 2*), and (*point 3*) are concerned, I strongly ho
 - diverse and dynamic
 - examine meticulously
 - causing confusion and misunderstanding
+- more financially rewarding
+- unprecedentedly fast
+- cultural belonging
+- clear even to the layman's eyes
+- virtuous cycle
+- fortune 500 firm
