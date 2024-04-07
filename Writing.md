@@ -205,6 +205,18 @@
 > Take the case of (*character*), who / which (*process*). As a result, (*result*).
 > Had it not been for (*process paraphrase*), (*character*) would never (*result paraphrase*).
 
+### Concession
+
+> Nevertheless, a voice arises that (*opposite response and point in grand opening*)
+> Ironically, (*facts against opposite detail*)
+> Therefore, (*point3*)
+
+### Ending
+
+> In a nutshell, I maintain that (*your response paraphrase*).
+> Admittedly, as my favourite quote from (*a famous person*) goes, (*famous person says, people have different opinions*), and some people may oppose me.
+> However, I believe they will compromise after being exposed to my article.
+
 ### Anything good
 
 - heated on-going discussion
