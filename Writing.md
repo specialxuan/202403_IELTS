@@ -186,7 +186,7 @@
 - Intriguing, coherent, and clear
 
 > It is hard to deny that (*opposite detail*), and such a fact leads impressionable people to generate the opinion that (*opposite response*).
-> However such a statement suffers from both logical and factual fallacies, and it should be examined meticulously
+> However, such a statement suffers from both logical and factual fallacies, and it should be examined meticulously.
 > As far as (*point 1*), (*point 2*), and (*point 3*) are concerned, I strongly hold that (*our response*).
 
 ### Reasoning
