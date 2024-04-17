@@ -207,9 +207,9 @@
 
 ### Concession
 
-> Nevertheless, a voice arises that (*opposite response and point in grand opening*)
-> Ironically, (*facts against opposite detail*)
-> Therefore, (*point3*)
+> Nevertheless, a voice arises that (*opposite response and point in grand opening*).
+> Ironically, (*facts against opposite detail*).
+> Therefore, (*point3*).
 
 ### Ending
 
