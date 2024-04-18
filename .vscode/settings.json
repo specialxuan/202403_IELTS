@@ -7,5 +7,8 @@
         "editor.lineHighlightBackground": "#b6b6b61c",
         "editorCursor.foreground": "#000000a8"
     },
-    "workbench.colorTheme": "Default Light Modern"
+    "workbench.colorTheme": "Default Light Modern",
+    "cSpell.words": [
+        "Fairtrade"
+    ]
 }
