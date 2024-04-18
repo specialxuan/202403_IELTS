@@ -45,9 +45,26 @@ For instance, the buglers who are sentenced by court to prison, may started thei
 Therefor, a little punishment at early stage could prevent kids from developing little crimes into big ones, which may damage the society and send them in jails.
 
 Nevertheless, a voice arises that abused punishment may harm children in both mental and physical ways.
-However, punishment contains more than humiliation or corporal punishment which are ineffective and harmful most of the time, and that means more effective and reasonable penalty, such as grounded or no TV for a week, can teach children a lesion without do any harm to their mind and body.
+However, sanctions contains more than humiliation or corporal punishment which are ineffective and harmful most of the time, and that means more effective and reasonable penalty, such as grounding in home or no TV for a week, can teach children a lesion effectively without do any harm to their mind and body.
 Therefore, punishment is a feasible approach to guide kids to become a better person.
 
 In a nutshell, I maintain that punishment is a irreplaceable part for children to tell the difference from right and wrong.
 Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
 But I believe they will compromise after being exposed to my article.
+
+>One important stage in a child's growth is the development of a conscience, which is linked to the ability to tell right from wrong.
+>This skill comes with time and good parenting, and my **firm conviction** is that punishment does not **have much of a role to play in** this.
+>Therefor I have to disagree almost entirely with **the given statement**.
+>
+>To some extent the question depends on the age of the child.
+>To punish a very young child is both wrong and foolish, as an infant will not understand what is happening or why **he or she** is being punished.
+>Once the age of reason is reached however, a child can be rewarded for good behaviour and **discourage** from bad.
+>This kind but firm approach will achieve more than harsh punishments, which might entail many **negative consequences** unintended by the parents.
+>
+>To help a child learn the difference between right and wrong, teachers and parents should firstly provide good role modeling in their own behaviour.
+>After that, if **sanctions** are needed, the punishment should not be of a physical nature, as that merely sends the message that it is acceptable for larger people to hit smaller ones - an outcome which **may well result** in the child starting to bully others.
+>Nor should the punishment be in any way cruel.
+>
+>Rather, teachers and parents can use a variety of methods to **discipline** their young charges, such as detention, withdrawal of privileges, and time-out.
+>Making the punishment fit the crime is a useful **notion**, which would see children being made to pick up rubbish they have dropped, clean up graffiti they have drawn, or apologise to someone they have hurt.
+>In these ways responsibility is developed in the child, which leads to much better future behaviour than does punishment.
