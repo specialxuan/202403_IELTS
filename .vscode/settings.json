@@ -7,8 +7,10 @@
         "editor.lineHighlightBackground": "#b6b6b61c",
         "editorCursor.foreground": "#000000a8"
     },
+    "editor.minimap.enabled": false,
     "workbench.colorTheme": "Default Light Modern",
     "cSpell.words": [
-        "Fairtrade"
+        "Fairtrade",
+        "IELTS"
     ]
 }

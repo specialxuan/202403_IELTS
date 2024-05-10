@@ -28,6 +28,20 @@ There were drastic surge in the euros spent on bananas in UK and Belgium, the fi
 
 In summary, UK and Switzerland consume more in both Fairtrade-labelled coffee and bananas than other countries in 1999, and widened the gap in 2004.
 
+> The two tables contain sales data for Fairtrade coffee and bananas in 1999 and 2004, in five nations of Europe.
+>
+> The first table shows low-level coffee sales increasing in all five countries, **albeit to widely degrees**.
+> In two places sales increased by the same small amount: 1.8 - 2 million euros in Denmark, and 0.8 - 1 million in Sweden.
+> The increment was slightly larger in Belgium, from 1 - 1.7 million euros. Meanwhile, in Switzerland sales doubled from 3 - 6 million euros.
+> Finally, in the UK there was an enormous increase, from 1.5 - 20 million euros.
+>
+> In the second table, it is Switzerland which **stands out** as buying far more Fairtrade bananas than the other four countries.
+> Swiss sales figures jumped from 15 - 47 million euros across these five years, while in the UK and Belgium sales only grew from 1 - 5.5 and from 0.6 - 4 million euros respectively.
+> Sweden and Denmark showed a different pattern, with falls in banana sales from 1.8 - 1and 2 - 0.9 million euros.
+>
+> Comparing the two tables, it is clear that in 1999 Fairtrade coffee sales **ranged from** 0.8 - 3 million euros in these five countries, while banana sales also mostly **clustered between** 0.6 and 2 million euros, with Switzerland the outlier at a huge 15 million euros.
+> By 2004, sales figures for both products had risen across the board, except for Sweden and Demark which recorded drops in banana sales.
+
 ## Task 2
 
 ### IELTS 10 Test 1 Punishment for Children
@@ -68,3 +82,13 @@ But I believe they will compromise after being exposed to my article.
 >Rather, teachers and parents can use a variety of methods to **discipline** their young charges, such as detention, withdrawal of privileges, and time-out.
 >Making the punishment fit the crime is a useful **notion**, which would see children being made to pick up rubbish they have dropped, clean up graffiti they have drawn, or apologise to someone they have hurt.
 >In these ways responsibility is developed in the child, which leads to much better future behaviour than does punishment.
+
+### IELTS 10 Test 2 What to Study in University
+
+It is hard to deny that wasting too much energy and time in random subjects could impair students subjects for their major, and such a fact leads impressionable people to generate the opinion that the subjects for college students should only be restricted to those that will be useful in the future.
+However, such a statement suffers from both logical and factual fallacies, and it should be examined meticulously.
+As far as purpose of education, cultivation of abilities and improvement in efficiency are concerned, I strongly hold that students should study whatever their interests are.
+
+First and foremost, purpose of education is not only to prepare a student to work, but also to make he or she a better person, as the ultimate wish of everyone is not to survive in a factory or company, but to live a happy life in the society, and that wish requires people to be highly educated, in many different disciplines.
+For instance, people who wants to spend their lifespan in a healthy condition, will need some skills on sports and exercises, some knowledge on food and nutrition, and even a few tips on biology and medicine.
+Furthermore, if a people
