@@ -90,5 +90,19 @@ However, such a statement suffers from both logical and factual fallacies, and i
 As far as purpose of education, cultivation of abilities and improvement in efficiency are concerned, I strongly hold that students should study whatever their interests are.
 
 First and foremost, purpose of education is not only to prepare a student to work, but also to make he or she a better person, as the ultimate wish of everyone is not to survive in a factory or company, but to live a happy life in the society, and that wish requires people to be highly educated, in many different disciplines.
-For instance, people who wants to spend their lifespan in a healthy condition, will need some skills on sports and exercises, some knowledge on food and nutrition, and even a few tips on biology and medicine.
-Furthermore, if a people
+For instance, people who wants to spend their lifespan in a healthy condition, will need some skills on sports and exercises, some knowledge on food and nutrition, and even a few tips on biology and medicine, all of which can be acquired in physical education and some other lessons in universities.
+Furthermore, for most people, art class in college is probably the best way to cultivate impression and taste of art, which is fundamental need for anyone who is going to attend a concert or visit a gallery.
+So missing these lessons may cause students face some unnecessary difficulties after they graduate.
+
+Furthermore, the fact that everything can be useful in the unexpected ways indicates that stop students not to study subjects which are not expected to have any help in the future is not sensible.
+Take the case of Steve Jobs, the fonder of Apple Inc, who once shared his experience in the speech for college graduation.
+He learned about different types of fonts and what to do to make text more readable and look better, which later perform an important role in making apple's computer system much more beautiful than its competitors.
+Had it not been for studying so called useless subjects, Jobs would never find it easy to build such a beautiful software.
+
+Nevertheless, a voice arises that irrelevant subjects might consume so much energy and time supposed to be spend on major curriculums, and eventually prevent students to learn something really helpful.
+Ironically, courses like art and sports can be one of the most efficient way to relax, which will only take a little amount of time to convert students' attention away from heavy burden, and then regenerate enough energy for them to get back and face next challenge.
+Therefore, other subjects can improve the efficiency in studying related subjects, rather than impair it.
+
+In a nutshell, I maintain that every people goes into universities should study whatever they intend to.
+Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
+However, I believe they will compromise after being exposed to my article.
