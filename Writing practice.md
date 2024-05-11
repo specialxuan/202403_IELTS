@@ -42,6 +42,21 @@ In summary, UK and Switzerland consume more in both Fairtrade-labelled coffee an
 > Comparing the two tables, it is clear that in 1999 Fairtrade coffee sales **ranged from** 0.8 - 3 million euros in these five countries, while banana sales also mostly **clustered between** 0.6 and 2 million euros, with Switzerland the outlier at a huge 15 million euros.
 > By 2004, sales figures for both products had risen across the board, except for Sweden and Demark which recorded drops in banana sales.
 
+### IELTS 10 Test 3 Destination of UK graduate and postgraduate
+
+The two bar chart illustrate the destinations (excluding full-time employment) of British graduate and postgraduate students after their graduation in 2008.
+Some similarities are shared between figures of two kinds of students, while some exceptions exists.
+
+Most popular orientation for graduates is further study, and about 30,000 students will improve themselves in college again after leaving it.
+Figure of voluntary work is 3,500, only a tenth of that of further study, suggests that fewest students decide to become volunteer.
+The rest two destination share about the same amount of students: 17,735 in part-time work, and 16,235 in unemployment.
+
+The bar chart of postgraduate shows a similar pattern compared with that of graduates.
+Apart from part-time work, the figures of other three destinations of former are about one out of ten compared to the latter: 345 in voluntary work, 2,725 in further study, and 1,625 in unemployment.
+The proportion of part-time work postgraduate is, however, larger than that of graduate, its figure (2,535) is very close to further study.
+
+In conclusion, most students, wether graduates or postgraduates, find themselves something to do after graduation, instead of being unemployed.
+
 ## Task 2
 
 ### IELTS 10 Test 1 Punishment for Children
