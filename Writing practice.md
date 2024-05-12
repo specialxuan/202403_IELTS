@@ -17,13 +17,13 @@ In conclusion, heating accounts for the most proportion that Australian househol
 
 ### IELTS 10 Test 2 Sales of Coffee and Bananas
 
-These two table show how many Fairtrade-labelled coffee and bananas were sold in 1999 and 2004 in five European nations.
+These two tables show how many Fairtrade-labelled coffee and bananas were sold in 1999 and 2004 in five European nations.
 Among all five countries, sales of these two products generally grew in five years, while there were some exceptions.
 
 A huge jump can be seen in coffee sales in UK, from 1.5 million euros in 1999 to 20 million euros in 2004, which made Britain the biggest consumer of coffee at the time.
 The figures of coffee in other four nations saw a relatively moderate increase, no more than twice as much in 2004 compared to 1999 respectively.
 
-The sales of bananas in Switzerland rose from 15 to 47 million euros during the time between 1999 and 2004, which is significantly larger than other countries.
+The sales of bananas in Switzerland rose from 15 to 47 million euros during the time between 1999 and 2004, which was significantly larger than other countries.
 There were drastic surge in the euros spent on bananas in UK and Belgium, the figures of whom in 2004 became around 6 times as that of 1999, while the rest two nations, Sweden and Denmark, saw a small dip in their figures of bananas in these five years.
 
 In summary, UK and Switzerland consume more in both Fairtrade-labelled coffee and bananas than other countries in 1999, and widened the gap in 2004.
@@ -74,7 +74,7 @@ For instance, the buglers who are sentenced by court to prison, may started thei
 Therefor, a little punishment at early stage could prevent kids from developing little crimes into big ones, which may damage the society and send them in jails.
 
 Nevertheless, a voice arises that abused punishment may harm children in both mental and physical ways.
-However, sanctions contains more than humiliation or corporal punishment which are ineffective and harmful most of the time, and that means more effective and reasonable penalty, such as grounding in home or no TV for a week, can teach children a lesion effectively without do any harm to their mind and body.
+However, punishment contains more than humiliation or corporal punishment which are ineffective and harmful most of the time, and that means more effective and reasonable penalty, such as grounded or no TV for a week, can teach children a lesion without do any harm to their mind and body.
 Therefore, punishment is a feasible approach to guide kids to become a better person.
 
 In a nutshell, I maintain that punishment is a irreplaceable part for children to tell the difference from right and wrong.
