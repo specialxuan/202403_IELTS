@@ -17,16 +17,30 @@ In conclusion, heating accounts for the most proportion that Australian househol
 
 ### IELTS 10 Test2 Sales of coffee and bananas
 
-These two table show how many Fairtrade-labelled coffee and bananas were sold in 1999 and 2004 in five European nations.
+These two tables show how many Fairtrade-labelled coffee and bananas were sold in 1999 and 2004 in five European nations.
 Among all five countries, sales of these two products generally grew in five years, while there were some exceptions.
 
 A huge jump can be seen in coffee sales in UK, from 1.5 million euros in 1999 to 20 million euros in 2004, which made Britain the biggest consumer of coffee at the time.
 The figures of coffee in other four nations saw a relatively moderate increase, no more than twice as much in 2004 compared to 1999 respectively.
 
-The sales of bananas in Switzerland rose from 15 to 47 million euros during the time between 1999 and 2004, which is significantly larger than other countries.
+The sales of bananas in Switzerland rose from 15 to 47 million euros during the time between 1999 and 2004, which was significantly larger than other countries.
 There were drastic surge in the euros spent on bananas in UK and Belgium, the figures of whom in 2004 became around 6 times as that of 1999, while the rest two nations, Sweden and Denmark, saw a small dip in their figures of bananas in these five years.
 
 In summary, UK and Switzerland consume more in both Fairtrade-labelled coffee and bananas than other countries in 1999, and widened the gap in 2004.
+
+>The two tables **contain** sales date for Fairtrade coffee and bananas in 1999 and 2004, in five nations of Europe.
+>
+>The first table shows low-level coffee sales increasing in all five countries, **albeit** to widely varying degrees. In two places sales increased by the same small amount: 1.8-2 million euros in Denmark, and 0.8-1 million in Sweden.
+>The increment was slightly larger in Belgium, from 1-1.7 million euros.
+>Meanwhile, in Switzerland sales doubled from 3-6 million euros.
+>Finally, in the UK there was an **enormous** increase, from 1.5-20 million euros.
+>
+>In the second table, it is Switzerland which **stands out** as buying far more Fairtrade bananas than the other countries.
+>Swiss sales figures jumped from 15-47 million euros across these five years, while in the UK and Belgium sales only grew from 1-5.5 and from 0.6-4 million euros respectively.
+>Sweden and Denmark showed a different pattern, with falls in banana sales from 1.8-1 and 2-0.9 million euros.
+>
+>Comparing the two tables, it is clear that in 1999 Fairtrade coffee sales ranged from 0.8-3 million euros in these five countries, while banana sales also mostly **clustered** between 0.6 and 2 million euros, with Switzerland the outlier at a huge 15 million euros.
+>By 2004, sales figures for both products ahd risen across the board, expect for Sweden and Demark which recorded drops in banana sales.
 
 ## Task 2
 
@@ -45,26 +59,9 @@ For instance, the buglers who are sentenced by court to prison, may started thei
 Therefor, a little punishment at early stage could prevent kids from developing little crimes into big ones, which may damage the society and send them in jails.
 
 Nevertheless, a voice arises that abused punishment may harm children in both mental and physical ways.
-However, sanctions contains more than humiliation or corporal punishment which are ineffective and harmful most of the time, and that means more effective and reasonable penalty, such as grounding in home or no TV for a week, can teach children a lesion effectively without do any harm to their mind and body.
+However, punishment contains more than humiliation or corporal punishment which are ineffective and harmful most of the time, and that means more effective and reasonable penalty, such as grounded or no TV for a week, can teach children a lesion without do any harm to their mind and body.
 Therefore, punishment is a feasible approach to guide kids to become a better person.
 
 In a nutshell, I maintain that punishment is a irreplaceable part for children to tell the difference from right and wrong.
 Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
 But I believe they will compromise after being exposed to my article.
-
->One important stage in a child's growth is the development of a conscience, which is linked to the ability to tell right from wrong.
->This skill comes with time and good parenting, and my **firm conviction** is that punishment does not **have much of a role to play in** this.
->Therefor I have to disagree almost entirely with **the given statement**.
->
->To some extent the question depends on the age of the child.
->To punish a very young child is both wrong and foolish, as an infant will not understand what is happening or why **he or she** is being punished.
->Once the age of reason is reached however, a child can be rewarded for good behaviour and **discourage** from bad.
->This kind but firm approach will achieve more than harsh punishments, which might entail many **negative consequences** unintended by the parents.
->
->To help a child learn the difference between right and wrong, teachers and parents should firstly provide good role modeling in their own behaviour.
->After that, if **sanctions** are needed, the punishment should not be of a physical nature, as that merely sends the message that it is acceptable for larger people to hit smaller ones - an outcome which **may well result** in the child starting to bully others.
->Nor should the punishment be in any way cruel.
->
->Rather, teachers and parents can use a variety of methods to **discipline** their young charges, such as detention, withdrawal of privileges, and time-out.
->Making the punishment fit the crime is a useful **notion**, which would see children being made to pick up rubbish they have dropped, clean up graffiti they have drawn, or apologise to someone they have hurt.
->In these ways responsibility is developed in the child, which leads to much better future behaviour than does punishment.
