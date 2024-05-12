@@ -15,7 +15,7 @@ However, gas emission of these is doubled as percentage representatively, and ov
 
 In conclusion, heating accounts for the most proportion that Australian households use energy for, and also makes up a big part of greenhouse gas emissions, while the remaining power usage cost just one forth of total, but emit a little more than half of the gas.
 
-### IELTS 10 Test2 Sales of coffee and bananas
+### IELTS 10 Test 2 Sales of Coffee and Bananas
 
 These two table show how many Fairtrade-labelled coffee and bananas were sold in 1999 and 2004 in five European nations.
 Among all five countries, sales of these two products generally grew in five years, while there were some exceptions.
@@ -42,7 +42,7 @@ In summary, UK and Switzerland consume more in both Fairtrade-labelled coffee an
 > Comparing the two tables, it is clear that in 1999 Fairtrade coffee sales **ranged from** 0.8 - 3 million euros in these five countries, while banana sales also mostly **clustered between** 0.6 and 2 million euros, with Switzerland the outlier at a huge 15 million euros.
 > By 2004, sales figures for both products had risen across the board, except for Sweden and Demark which recorded drops in banana sales.
 
-### IELTS 10 Test 3 Destination of UK graduate and postgraduate
+### IELTS 10 Test 3 Destination of UK Graduate and Postgraduate
 
 The two bar chart illustrate the destinations (excluding full-time employment) of British graduate and postgraduate students after their graduation in 2008.
 Some similarities are shared between figures of two kinds of students, while some exceptions exists.
@@ -121,3 +121,20 @@ Therefore, other subjects can improve the efficiency in studying related subject
 In a nutshell, I maintain that every people goes into universities should study whatever they intend to.
 Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
 However, I believe they will compromise after being exposed to my article.
+
+### IELTS 10 Test 3 Buy Product Anywhere
+
+It is hard to deny that a few countries's industries might get severe damaged, because the same products produced by more efficient foreign factories will outcompete domestic ones, and such fact lead to impressionable people to generate the opinion that globalization is a negative development for countries.
+However, such a statement suffers from both logical and factual fallacies, and it should be examined meticulously.
+As far as globalization, efficiency, and economy are concerned, I strongly hold that forming of common market across the globe is a positive development for most countries.
+
+First and foremost, globalization is the trend for 21st century, as connections between people different countries are strengthened because of the improvement in communications and logistics.
+To illustrate, astounding new technology is developed everyday, in aviation, seafaring and other ways to travel around the world, makes it much easier for consumers in distant countries to buy the same products.
+Not to mention that the same thing happens for producers, as the more areas good products could be sold to, the more profits could be generated.
+
+Furthermore, the fact that common market makes it possible to form an international production line, indicates that globalization can bring efficiency improvement for plenty countries at the same time.
+Take the case of manufacturing of iPhone.
+The design is fulfilled in America by talented engineers from Apple Inc, and then different parts are produced by companies in Korea, China and other nations, finally all components are gathered and assembled China or southeast Asian for shipment to everywhere across the world.
+If some crucial elements of iPone were forbidden to buy in some countries, this cross-country production line would never be built in the first place.
+
+Nevertheless, a voice arises that .
