@@ -130,11 +130,17 @@ As far as globalization, efficiency, and economy are concerned, I strongly hold 
 
 First and foremost, globalization is the trend for 21st century, as connections between people different countries are strengthened because of the improvement in communications and logistics.
 To illustrate, astounding new technology is developed everyday, in aviation, seafaring and other ways to travel around the world, makes it much easier for consumers in distant countries to buy the same products.
-Not to mention that the same thing happens for producers, as the more areas good products could be sold to, the more profits could be generated.
+Not to mention that the same thing happens for producers, as the more areas good merchandise could be sold to, the more profits could be generated.
 
 Furthermore, the fact that common market makes it possible to form an international production line, indicates that globalization can bring efficiency improvement for plenty countries at the same time.
 Take the case of manufacturing of iPhone.
 The design is fulfilled in America by talented engineers from Apple Inc, and then different parts are produced by companies in Korea, China and other nations, finally all components are gathered and assembled China or southeast Asian for shipment to everywhere across the world.
 If some crucial elements of iPone were forbidden to buy in some countries, this cross-country production line would never be built in the first place.
 
-Nevertheless, a voice arises that .
+Nevertheless, a voice arises that a better and more affordable product from another state could be more attractive than local ones, and did great harm to the industry in this country.
+Ironically, the state can come up with a proper tariff, from which their manufacturers can be protected and beneficial competition that will boost domestic trade can also be introduced at the same time.
+Therefore, foreign products are harmless, and can be a booster to native economy,  .
+
+In a nutshell, I maintain that globalization is not a negative development for countries, but in contrary, a positive one.
+Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
+However, I believe they will compromise after being exposed to my article.
