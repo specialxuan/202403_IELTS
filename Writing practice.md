@@ -57,6 +57,20 @@ The proportion of part-time work postgraduate is, however, larger than that of g
 
 In conclusion, most students, wether graduates or postgraduates, find themselves something to do after graduation, instead of being unemployed.
 
+### IELTS 10 Test 4 Life of Salmon
+
+The life of a salmon begins from a little beneath some small stones at the bottom of a river.
+Salmon eggs are layed at the upper part of a river, for the water move slowly so that eggs will not be flushed away by the current.
+Reeds above provide shelter for salmon eggs, and protect them 5-6 months until they become small fish.
+
+Next, small fish, recently hatched, is called fry, and about 3-8 centimeters long.
+These fish go to lower part of the river, where current is faster and able to provide them with more food to eat.
+Around 4 years will be spent in the lower river for them to grow big enough, about 12-15 cm, and become smolt.
+
+The final destination for salmon is open sea, where water is comfort and food is abundant.
+It is going to take approximate half a decade for smolt to become adult salmon, which is as large as 70-76 cm.
+After they are sexual mature, male and female salmon will mate, then return to the origin of the river, where they will lay eggs again, and the next life cycle fo salmon will start.
+
 ## Task 2
 
 ### IELTS 10 Test 1 Punishment for Children
