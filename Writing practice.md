@@ -84,6 +84,19 @@ After they are sexual mature, male and female salmon will mate, then return to t
 > Each of these stages takes place in a very different **aquatic location**.
 > It is noteworthy that the first two stages of this fish's life occur in a freshwater environment, while the third stage is lived in saltwater.
 
+### IELTS 12 Test 2 Islip Town Centre
+
+The main road, with shops aligned at both sides, divides Islip town centre into two parts, the northern one and the southern ones.
+Besides shops, there is nothing more but countryside in the northern part, and to the south, housing takes most of lands.
+In the southwest corner of the town centre, a school stands at the end of a curved side road derived from the main road.
+And for people who want entertain themselves, there is a path leading to a park in the southeast corner.
+
+In the further development plan, the side roads to the school and park will be connected, and together with a newly constructed road in the north, an efficient dual carriageway will circle the centre of Islip.
+And the original main road will be used for pedestrians only.
+Shops at southern side of the main road will remain, but the northern ones will be centralised in to a shopping centre.
+A bus station and a car park will be built at west and east side of the shopping centre, and there will be still some place for new housing in the east.
+In the southern part of town centre, school, park, and housing is going to remain, with only some of the housing will be upgrade.
+
 ## Task 2
 
 ### IELTS 10 Test 1 Punishment for Children
