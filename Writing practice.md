@@ -71,6 +71,19 @@ The final destination for salmon is open sea, where water is comfort and food is
 It is going to take approximate half a decade for smolt to become adult salmon, which is as large as 70-76 cm.
 After they are sexual mature, male and female salmon will mate, then return to the origin of the river, where they will lay eggs again, and the next life cycle fo salmon will start.
 
+> Salmon begin life as eggs on a pebbly riverbed, hidden among reeds in the slow-moving upper reaches of a river.
+> After five to six months the eggs **hatch into** 'fry'.
+> For approximately the next four years, these baby salmon will live in the lower, faster-flowing waters of their river.
+> During this time they **measure between three and eight centimetres in length**.
+>
+> By the time salmon reach twelve to fifteen centimetres, they are **termed** 'smolt', and at this time they **migrate** further downriver into the open sea.
+> After five years at sea the salmon will have grown to adult size, which is between seventy and seventy-six centimetres.
+> They then begin swimming back to their birthplace, where they will lay their eggs and cycle starts anew.
+>
+> In summary, the salmon **passes through** three distinct physical stages as it grows to maturity.
+> Each of these stages takes place in a very different **aquatic location**.
+> It is noteworthy that the first two stages of this fish's life occur in a freshwater environment, while the third stage is lived in saltwater.
+
 ## Task 2
 
 ### IELTS 10 Test 1 Punishment for Children
@@ -156,5 +169,45 @@ Ironically, the state can come up with a proper tariff, from which their manufac
 Therefore, foreign products are harmless, and can be a booster to native economy,  .
 
 In a nutshell, I maintain that globalization is not a negative development for countries, but in contrary, a positive one.
+Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
+However, I believe they will compromise after being exposed to my article.
+
+> It is said that countries are becoming similar to each other because of the global spread of the same products, which are now available for purchase almost anywhere.
+> I strongly believe that this modern development is largely detrimental to culture and traditions worldwide.
+>
+> A country's history, language and ethos are all **inextricably** bound up in its manufactured artefacts.
+> If the **relentless advance** of international brands into **every corner of the world countries**, these bland packages might one day completely oust the traditional objects of a nation, which would be a loss of **richness and diversity in the world**, as well as the sad disappearance of the manifestations of a place's character.
+> What would a Japanese tea ceremony be without its specially crafted teapot, or a Fijian kava ritual without its bowl made from a certain type of tree bark?
+>
+> Let us not forget either that traditional products, whether these be medicines, cosmetics, toys, clothes, utensils or food, provide employment for local people.
+> The spread of multinational products can often bring in its wake a loss of jobs, as people turn into buying the new brand, perhaps thinking it more glamorous than the one they are used to.
+> This eventually puts old-school craftspeople out of work.
+>
+> Finally, tourism numbers may also be affected, as travellers become **disillusioned** with finding every place just the same as the one they visited previously.
+> To see the same products in shops the world over is boring, and does not impel visitors to open their wallets in the same way that trinkets or souvenirs **unique to** the particular area do.
+>
+> Some may argue that all people are entitled to have access the the same products, but I say that local objects suit local conditions best, and that faceless uniformity worldwide is an unwelcome and dreary prospect.
+
+### IELTS 10 Test 4 Charge for Museum
+
+To deny that putting charge on people for admission to museums will help them pay their own bill is hard, and such fact lead to impressionable people to generate the idea that there are more benefits to charge visiters for museums than not to charge.
+However, such an opinion suffers from both logical and factual fallacies, and it should be examined meticulously.
+As far as culture, feasibility and economy are concerned, I strongly hold that the advantage of charging people for visiting museums does not outweigh the disadvantage.
+
+First and foremost, charging people will have a bad influence on cultural promotion, as a person's enthusiasm could be severely damaged by the price of the ticket, and miss the chance to encounter some new pieces of culture.
+To be more specific, the basic function of a museum is to exhibit its belongings and tell stories from them, so that visitors can feel and understand the culture behind these tales.
+And if the cost for the entrance prevent more people from the exhibition hall,  it will heavily affect the main reason why this building was erected in the first place.
+So, in cultural aspect, the disadvantage is quiet clear.
+
+Furthermore, the fact that the bill to maintain a museum to be functional is not very expensive indicates that it won't be a heavy burden for government budget to support it.
+Take the Chinese National Museum for instance, the collection in it contains from paintings to metal antiques, which are durable and need little energy usage and human effort to conserve them, and that means it will only takes a small public expenditure of Beijing government to cover the bill.
+As a result National Museum of China is free for tourist from all around the world, and tells Chinese culture to the entire globe.
+Since running a museum won't cost much, the advantage of charging is marginal.
+
+Nevertheless, a voice arises that it is a more sustainable way if the museum can feed itself with tickets fee.
+Ironically, there are many other ways to get a decent income for museum apart from asking the public to hand over their money for their interest in culture, such as setting up stores of refreshments for people who are tired, and shops of souvenirs for people who are willing to pay.
+Therefore, the advantage of charging becomes minimal.
+
+In a nutshell, I maintain that the advantage of charging people for admission to museums is outweighed by the disadvantage.
 Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
 However, I believe they will compromise after being exposed to my article.
