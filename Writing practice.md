@@ -84,6 +84,19 @@ After they are sexual mature, male and female salmon will mate, then return to t
 > Each of these stages takes place in a very different **aquatic location**.
 > It is noteworthy that the first two stages of this fish's life occur in a freshwater environment, while the third stage is lived in saltwater.
 
+### IELTS 12 Test 1 Percentage of Australians Doing Physical Activity
+
+The bar chart illustrate what was the ratio of Australian men and women who did physical activity regularly in different age in 2010.
+In general, the percentage of female in most age group is larger than that of male.
+
+52.8 precent of men exercise regularly in the youngest group(15-24), which is the only group that percentage of women(47.4) is not larger.
+With the increase in age, the ratio of male drops to 39.5 at 35-40 years old group, while in contrary, the figure for female rises to 52.5 percent at the same age.
+
+Form 45 to 65 and over, more men decide to do physical works frequently, and the percentage gradually climb to 46.7 at the oldest cluster.
+The percentage of women plateaus at around 53 in groups from 45 to 64, and in the final group the figure declines to 47.1 percent.
+
+In conclusion, men in their middle age did less regular physical activity than the young and the old, while the pattern is quiet opposite for women.
+
 ### IELTS 12 Test 2 Islip Town Centre
 
 The main road, with shops aligned at both sides, divides Islip town centre into two parts, the northern one and the southern ones.
