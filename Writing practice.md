@@ -237,3 +237,25 @@ Therefore, the advantage of charging becomes minimal.
 In a nutshell, I maintain that the advantage of charging people for admission to museums is outweighed by the disadvantage.
 Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
 However, I believe they will compromise after being exposed to my article.
+
+### IELTS 12 Test 3 New Fast Railway
+
+It's hard to deny that developing new railway lines for high speed trains between cities will cost so much money, and such a fact leads to impressionable people to generate the opinion that this money should be used on upgrading public transport which we have now.
+However, such a statement suffers from both logical and factual fallacies, and it should be examined meticulously.
+As far as efficiency, environment, and finance are concerned, I strongly hold that it will be better for the society if more money is invested in fast train railways.
+
+First and foremost, connecting cities with fast railways can make a huge jump in efficiency, as with the development of new technology, modern high speed trains can travel at the speed doubled that of old models.
+Take the case of Chinese fast railway system, GaoTie, which was constructed by Chinese government to form a huge network that can pull all of the major cities in China together.
+As a result, basically everyone in China now can save half of their time on the train with an affordable price, then tourism and other industries related to transport is boosted by this.
+Had it not been for brand new high speed railway system, China would never develop its economy so rapidly.
+
+Furthermore, the fact that newly designed fast trains are more efficient in converting energy into their speed, indicates that fast railway systems can save more energy and be more environmentally friendly.
+To be more specific, once the high speed railway network is established, the total energy usage for transportation will decline, which means less power will be generate, and less carbon dioxide will be emitted.
+
+Nevertheless, a voice arises that the cost of a new railway line for very fast train is going to put a heavy burden to company or government, and instead, we should improve the existing transport to save budget.
+Ironically, investment related to infrastructure, such as new railway lines, are well proven to be able to gain huge profits in long term.
+Therefor, constructing new railway lines may cost more than renovating existing ones initially, but it will finally bring more wealth from the large amount of passengers.
+
+In conclusion, I maintain that it is better to invest new fast-train railways.
+Admittedly, as my favourite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and someone may oppose me.
+However, I believe they will compromise me after being exposed to my article.
