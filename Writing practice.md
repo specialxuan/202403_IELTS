@@ -110,6 +110,19 @@ Shops at southern side of the main road will remain, but the northern ones will 
 A bus station and a car park will be built at west and east side of the shopping centre, and there will be still some place for new housing in the east.
 In the southern part of town centre, school, park, and housing is going to remain, with only some of the housing will be upgrade.
 
+### IELTS 12 Test 3 Frequency of Fast Food
+
+The bar chart below illustrates how often Americans had their meals in fast food restaurants between 2003 and 2013.
+Wether in year of 2003, 2006 or 2013, people who ate several times a month made up the major part.
+
+The percentage of American who ate once a week was just over 30% back in 2003, and rose a little 3 years later, and then dropped to below 30% in 2013.
+The pattern for frequency of once or twice a month, however, was quiet the opposite, the figure began from 30%, then reached the bottom at 25%, and finally jumped to the highest point, over 30%.
+
+The ratio of Americans had fast food more than one times per week fluctuated from 15% to 20% in the decade, while at the same time, that number of a few times a year stayed around 15%.
+People who stepped into fast food restaurant everyday and those who never did it were the smallest group, both had a figure under 5% in 2003 and saw a little decline later years.
+
+In general, the distribution of frequency of eating at fast food restaurants among Americans shift a little to the right, which is the direction of less often.
+
 ## Task 2
 
 ### IELTS 10 Test 1 Punishment for Children
