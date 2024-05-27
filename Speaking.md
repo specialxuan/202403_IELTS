@@ -108,3 +108,137 @@
 1. Record yourself
 2. Listen and note your mistakes
 3. Practice the structure 5 - 10 times with new sentences
+
+## Part 2
+
+### Basic Requirements
+
+1. Speak as soon as examiner says so
+2. Keep the ball rolling
+3. Speak with feeling
+4. Stop when examiner tells you to
+5. Try not to say "That's all" and end yourself
+
+### Brainstorming 1
+
+- Background
+  - Start
+  - Time / Place / Character / Cause
+- Description
+  - Point 1 and comments
+  - Point 2 and comments
+  - Point 3 and comments
+- Conclusion
+  - Positive Feeling
+  - Negative Feeling
+  - Pull Back
+
+### Brainstorming 2
+
+- Who
+- What
+- Where
+- When
+- Why
+- How
+
+### Framework
+
+- People
+  - appearance
+  - personality
+  - who they are to you
+- Object
+  - appearance
+  - brand
+  - function / purpose
+- Event
+  - purpose
+  - venue
+  - attendees
+- When you do
+  - period
+  - exact time
+  - occasion
+- Where you do
+  - relative location
+  - exact place
+  - near / far
+  - how you get there
+  - symbol / meaning
+- How you do
+  - cause
+  - process
+  - result
+- How you feel about sb
+  - positively
+    - **positive influence**
+    - exciting to be around
+    - **inspiring**
+    - sensible
+    - resourceful
+    - witty
+    - amazing
+    - cool-headed
+    - good person
+    - nice / kind
+    - generous
+    - polite / well-mannered
+    - intelligent / clever
+    - content
+    - ambitious
+    - modest
+    - like
+    - **respect**
+    - **admire**
+    - **envy**
+  - negatively
+    - irrational
+    - impulsive
+    - hot-headed
+    - vicious / mean
+    - nasty
+    - stingy
+    - not too bright
+    - not a team player
+    - an ingrate
+    - vulgar / rude
+    - judgmental
+    - obnoxious
+    - moody
+    - arrogant
+    - show-off
+    - bad person
+    - **dislike / loathe**
+    - **don't respect**
+- How you feel about sth
+  - positive
+    - **happy**
+    - relieved
+    - content
+    - amused
+    - **inspired**
+    - excited
+    - satisfied
+    - **lucky**
+    - **grateful**
+    - hopeful
+  - negative
+    - **anxious / nervous**
+    - confused
+    - depressed
+    - devastated
+    - embarrassed
+    - empty
+    - frustrated
+    - guilty
+    - insecure
+    - **tired**
+
+### Guidelines for Taking Notes
+
+1. Write key words (mostly hypernyms)
+2. Write good words / phrases you want to use
+3. Don't write full sentences
+4. Don't worry about spelling
+5. Can use Chinese / symbols / abbreviations
