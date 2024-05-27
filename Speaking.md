@@ -242,3 +242,43 @@
 3. Don't write full sentences
 4. Don't worry about spelling
 5. Can use Chinese / symbols / abbreviations
+
+## Part 3
+
+### Question Types
+
+1. List
+2. Explain or Give Reasons
+3. Compare and Contrast
+4. Suggest
+5. Agree or Disagree
+6. Predict
+
+### Discourse
+
+1. use the third person
+2. don't give examples of yourself
+3. talk about groups
+4. phrase your examples to seem typical
+5. use plenty of discourse markers
+
+|                 |                   |                  |
+| :-------------- | :---------------- | :--------------- |
+| they can        | the reason is     | I agree with     |
+| they should     | due to            | I disagree with  |
+| the must        | as / for          | that's right     |
+| the first is    | the difference is | that's wrong     |
+| another is      | while             | I don't think so |
+| besides that    | instead           | it will          |
+| this is because | on the other hand | people might     |
+
+### Reminders
+
+1. Part 3 is what decides your final score
+2. Don't recite answers
+3. Make sure you understand before you answer
+4. If interrupted after the **first 1 - 2 sentences**, wrong answer
+5. Answer can be simple, but meaning needs to be clear
+6. Examiner can make up questions
+7. You need to justify your answer
+8. You can truthfully say "I don't know"
