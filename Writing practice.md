@@ -251,6 +251,27 @@ In a nutshell, I maintain that the advantage of charging people for admission to
 Admittedly, as my favorite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
 However, I believe they will compromise after being exposed to my article.
 
+### IELTS 12 Test 1 Share Information Freely
+
+It's hard to deny that the more information is shared in scientific research, business and the academic world, the more efficient our society may be, and such a fact leads to impressionable person to generate the opinion that we should give information as much as possible.
+However, such a statement suffers from both logical and factual fallacies, and it should be examined meticulously.
+As far as privacy, equality, and efficiency are concerned, I strongly hold that some information mustn't be shared without limitation.
+
+First and foremost, any information related to someone's private life should be shared with restrictions, as these details is vital to its owner's life and property security.
+A huge amount of frauds happen every years across the world, and a part of them, which is the most deadly part, is committed base on personal information, such as names, phone number and credit card number.
+Had victims' privacy not been exposed, they are less likely to trust the convicts and get frauds.
+
+Furthermore, the fact that intellectual properties require carefully protections indicates that sharing too much valuable information across academic and business world could do harm to researchers and explorers.
+To be more specific, if a group of researcher tells the whole story of their invention in their journal articles, some other company will use this information to get a patent, which will block the way for researchers to generate profits from their hard work.
+So it is important for some key details to be hold instead of to be shared.
+
+Nevertheless, a voice rises that erasing barriers from where message is conveyed can help this world become more efficient.
+Ironically, overloaded information will only leads to misjudgement and mistake, the proper information, however, is the maximum boost of the efficiency.
+
+In a nutshell, I maintain that some of the information should not be shared freely, because it's either too important or too valuable.
+Admittedly, as my favourite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and some one may oppose me.
+However, I believe they will compromise me after reading my article.
+
 ### IELTS 12 Test 3 New Fast Railway
 
 It's hard to deny that developing new railway lines for high speed trains between cities will cost so much money, and such a fact leads to impressionable people to generate the opinion that this money should be used on upgrading public transport which we have now.
