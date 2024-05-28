@@ -241,6 +241,34 @@
 4. Don't worry about spelling
 5. Can use Chinese / symbols / abbreviations
 
+### Introducing Topic and Points
+
+- Topic
+  1. Ok, so ..., well, ...
+  2. Ok, so I'm gonna talk about ...
+  3. Alright, so the topic I'm talking about is ...
+  4. Today I would like to talk about ...
+  5. I would like to share something about ...
+- Points
+  1. Ask and answer
+  2. As for
+  3. And about
+  4. And finally
+
+### Guidelines for Recycling
+
+1. Summarize the main point of your material
+2. Keep the good words and phrases
+3. Avoid obvious operative words from the other prompts
+4. BESTstart talking about focus 40 - 45 seconds in
+5. Talk NATURALLY, don't recite
+
+### Filling Up Time
+
+1. I forgot to mention
+2. Something I'd like to add is
+3. Another point I want to make is
+
 ## Part 3
 
 ### Question Types
