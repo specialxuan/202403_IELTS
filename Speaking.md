@@ -119,7 +119,7 @@
 4. Stop when examiner tells you to
 5. Try not to say "That's all" and end yourself
 
-### Brainstorming 1
+### Brainstorming
 
 - Background
   - Start
@@ -132,8 +132,6 @@
   - Positive Feeling
   - Negative Feeling
   - Pull Back
-
-### Brainstorming 2
 
 - Who
 - What
@@ -272,6 +270,13 @@
 | besides that    | instead           | it will          |
 | this is because | on the other hand | people might     |
 
+|                              |                  |
+| :--------------------------- | :--------------- |
+| from my experience           | usually          |
+| based on what I know         | most of the time |
+| as far as I'm concerned      | some people      |
+| I can't say much about other | a lot of people  |
+
 ### Reminders
 
 1. Part 3 is what decides your final score
@@ -282,3 +287,23 @@
 6. Examiner can make up questions
 7. You need to justify your answer
 8. You can truthfully say "I don't know"
+9. Specific knowledge about any topic doesn't matter
+10. Your opinion matters on IELTS Speaking Part 3
+11. Offer a direct opinion with reasoning
+12. You may contradict the tone of the question in your answers as long you justify your opinion
+13. COmpare the options if offered in a question can give respective explanations
+
+### Reservoir of Ideas
+
+- Time
+- Money
+- Energy
+- Feeling
+- Personality
+
+### Important Tools
+
+1. Keep asking yourself **WHY**
+2. NEVER assume explain everything, expect universally acknowledged facts
+3. Use **HIGH-LEVEL** words
+4. Try to make your answers **LAYERED**
