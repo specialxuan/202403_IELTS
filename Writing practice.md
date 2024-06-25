@@ -293,3 +293,10 @@ Therefor, constructing new railway lines may cost more than renovating existing 
 In conclusion, I maintain that it is better to invest new fast-train railways.
 Admittedly, as my favourite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and someone may oppose me.
 However, I believe they will compromise me after being exposed to my article.
+
+It's hard to deny that ... and such a fact leads to impressionable people to generate the opinion that ...
+However, such a statement suffers from both logical and factual fallacies, and need to be examined meticulously.
+As far as ... are concerned, I strongly hold that ...
+
+Admittedly, as my favourite quote from James Madison goes, as long as the reason of man continues fallible, different opinions will be formed, and someone may oppose me.
+However, I believe that they will comprise after being exposed to my article.
